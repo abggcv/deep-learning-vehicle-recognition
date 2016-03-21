@@ -1,0 +1,6 @@
+{
+  "name": "Deep-learning-vehicle-recognition",
+  "tagline": "Literature survey of deep learning techniques for vehicle recognition",
+  "body": "http://onlinepresent.org/proceedings/vol90_2015/13.pdf\r\nTest Accuracy comparison between LBP, LGBP, SIFT and Deep Learning. Total 3210 car images with 30 images of each of 107 car models. 29 images were used for training and 1 image was used for testing. They also showed 100% detection accuracy using frame difference method for detection of moving vehicles in videos. \r\n\r\nhttp://cs231n.stanford.edu/reports/lediurfinal.pdf\r\nComparison of various popular Deep Learning techniques: Google Net, CaffeNet, VGG Net CaffeNet has 8 layers while GoogleNet and VGG Net are much complicated with more layers. The dataset contains 16185 images split into 8144 training and 8041 test images. There were 196 different classes in the image dataset. ",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
